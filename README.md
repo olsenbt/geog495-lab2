@@ -5,3 +5,4 @@
 W3 How To's: 
 - Fixed TopNav (index.html)
 - Parallax (index.html)
+- Cards (html2.html, html3.html)
